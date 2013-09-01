@@ -1,8 +1,7 @@
 FlyOnTheWall_OF_Basic
 =====================
 
-Basic openFramewoks examples for class "Fly On The Wall", with Parsons and Tongji University
-designed by Yinan Zhang
+Basic openFramewoks examples for class "Fly On The Wall", with Parsons and Tongji University _  designed by Yinan Zhang
 
 Part One (1.1-1.5):  Basic Drawings
 
