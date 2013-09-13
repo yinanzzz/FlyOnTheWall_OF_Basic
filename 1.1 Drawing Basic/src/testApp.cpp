@@ -61,12 +61,12 @@ void testApp::draw(){
     
     
     //--------------------------- ellipse
-    ofSetColor(100);
-    ofEllipse(850, 350, 50, 150);
+//    ofSetColor(100);
+//    ofEllipse(850, 350, 50, 150);
        
 
     //--------------------------- trangle
-     ofTriangle(900, 200, 950, 230, 925, 450);
+    // ofTriangle(900, 200, 950, 230, 925, 450);
     
     
     
